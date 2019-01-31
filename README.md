@@ -1,6 +1,6 @@
 # php-fibonacci
 
-Based upon https://github.com/T-PWK/go-fibonacci
+Based on https://github.com/T-PWK/go-fibonacci
 
 And quoting:
 
